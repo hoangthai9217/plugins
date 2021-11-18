@@ -12,9 +12,9 @@ environment:
 flutter:
   plugin:
     platforms:
-      android:
-        package: io.flutter.plugins.videoplayer
-        pluginClass: VideoPlayerPlugin
+      # android:
+      #   package: io.flutter.plugins.videoplayer
+      #   pluginClass: VideoPlayerPlugin
       ios:
         pluginClass: FLTVideoPlayerPlugin
       web:
